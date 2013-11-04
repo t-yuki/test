@@ -11,4 +11,8 @@ Test
 
 [[https://github.com/t-yuki/test/|Text]]
 
+[[Text|test]]
+
+[[test|Text]]
+
 [Text](https://github.com/t-yuki/test/)
